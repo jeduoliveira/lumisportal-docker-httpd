@@ -8,13 +8,16 @@ Apache 2.4
 O que é?
 --------
 
+httpd is the Apache HyperText Transfer Protocol (HTTP) server program. It is designed to be run as a standalone daemon process. When used like this it will create a pool of child processes or threads to handle requests.
 
-Dependências
+Dependencies
 ------------
 
-A stack completa
-----------------
-Para executar a stack completa utilizei o docker-compose.
+There isn't!
 
-Segue o github com o docker-compose.yml 
+The full stack 
+----------------
+To execute the complete stack I used the docker-compose.
+
+The github URL of the docker-compose.yml is here.
 [github](https://github.com/jeduoliveira/lumisportal-docker-compose-11.2.0)
